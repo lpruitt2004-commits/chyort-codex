@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@csstools/postcss-color-function": "^4.0.12",
+    "ajv": "^8.17.1"
   }
 }
